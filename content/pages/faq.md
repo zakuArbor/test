@@ -1,7 +1,7 @@
 +++
 title = "FAQ"
 path = "faq"
-date = "2022-08-31"
+date = 2022-08-31
 template = "page.html"
 +++
 Here are my frequently asked questions.
