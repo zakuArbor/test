@@ -1,0 +1,27 @@
+# The URL the site will be built for
+base_url = "https://zola-clean-blog.netlify.com"
+generate_rss = true
+compile_sass = true
+
+title = "Alan Reviews Updates"
+description = "The place where you get updates on my YouTube channel"
+highlight_code = true
+
+taxonomies = [
+    {name = "categories", rss = true, paginate_by=5},
+    {name = "tags", rss = true, paginate_by=5},
+]
+
+[extra]
+author = "Alan Reviews"
+clean_blog_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/about", name = "About"},
+    {url = "$BASE_URL/faq", name = "FAQ"},
+]
+clean_blog_social = [
+    {url = "https://www.youtube.com/c/TheAlanReviews", icon="fab fa-youtube"},
+    {url = "https://discord.gg/K9BdChUCMN", icon="fab fa-discord"},
+    {url = "https://github.com/alanreviews", icon="fab fa-github"},
+    {url = "https://alanreviews.github.io/", icon="fa fa-globe"},
+]
