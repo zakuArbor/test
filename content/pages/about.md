@@ -4,7 +4,7 @@ path = "about"
 template = "about.html"
 +++
 
-This is a test to see if github actions work - zakuarbor
+This is a test 2 to see if github actions work - zakuarbor
 
 Hello, I am Alan. I run my YouTube channel The Alan Reviews. I review LEGOs, video games, and technologies. In addition, I post vlogs, slideshows, and gameplay clips. All my videos are safe for work and kid-friendly.
 
