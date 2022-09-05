@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: zakuarbor.github.io/sitemap.xml
+Sitemap: https://zakuarbor.github.io/test/sitemap.xml
